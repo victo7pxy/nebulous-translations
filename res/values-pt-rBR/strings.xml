@@ -760,7 +760,7 @@
     <string name="Nebulous_needs_Coarse_Location_permissions_to_find_nearby_Bluetooth_devices_">O Nebulous precisa da permissão de Localização para encontrar dispositivos Bluetooth próximos.</string>
     <string name="FFA_ULTRA">FFA ULTRA</string>
     <string name="FFAU">FFAU</string>
-    <string name="_in_a_FFAU_Game"> Em um jogo de FFA ULTRA</string>
+    <string name="_in_a_FFAU_Game"> em um jogo de FFA ULTRA</string>
 
     <string name="BANNED_PLAYERS">JOGADORES BANIDOS</string>
     <string name="MAIL">E-MAIL</string>
@@ -944,7 +944,7 @@
     <string name="HAPPY_BIRTHDAY_">FELIZ ANIVERSÁRIO!</string>
     <string name="Years">Anos</string>
     <string name="Friend_Added_">Amigo Adicionado!</string>
-    <string name="_in_a_16x_Split_Game"> Em um Jogo de 16x Split</string>
+    <string name="_in_a_16x_Split_Game"> em um Jogo de 16x Split</string>
     <string name="Rules">Regras</string>
     <string name="Nebulous_Rules" translatable="true" tools:ignore="Untranslatable">
 Regras do Nebulous\n
@@ -1198,7 +1198,7 @@ Esta é uma lista de itens *PROIBIDOS* para uso em skins personalizadas. Se voc�
     <string name="Time_">Tempo:</string>
     <string name="Show_Session_Stats">Mostrar Estatísticas da Sessão</string>
     <string name="VALENTINES_DAY">"DIA DOS NAMORADOS"</string>
-    <string name="shared_pack_info" translatable="true" tools:ignore="Untranslatable">Depois que você comprar este pacote de skin, suas skins exclusivas irão aparecer no topo dos menus de seleção de Skins para você e seu amigo!</string>
+    <string name="shared_pack_info" translatable="true" tools:ignore="Untranslatable">Este é um pacote especial para que você e um amigo recebam o pacote!</string>
     <string name="shared_pack_purch_description" translatable="true" tools:ignore="Untranslatable">Este é um pacote especial para você e um amigo aproveitarem juntos!</string>
     <string name="Giveaways_">Sorteios!</string>
     <string name="Max_XP_Chain_">Sequência Máxima de XP:</string>
