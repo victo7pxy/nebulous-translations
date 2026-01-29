@@ -1273,8 +1273,8 @@ Esta é uma lista de itens *PROIBIDOS* para uso em skins personalizadas. Se voc�
     <string name="Victorious">Vitorioso</string>
     <string name="Dominant">Dominante</string>
     <string name="Champion">Campeão</string>
-    <string name="Win_10_Tournaments">Ganhar 10 partidas no Torneio</string>
-    <string name="Win_100_Tournaments">Ganhar 100 partidas no Torneio</string>
+    <string name="Win_10_Tournaments">Ganhar 10 Torneios</string>
+    <string name="Win_100_Tournaments">Ganhar 100 Torneios</string>
     <string name="HERO">HERÓI</string>
     <string name="CHAMPION">CAMPEÃO</string>
     <string name="sandbox_warning" translatable="true" tools:ignore="Untranslatable">Você não pode ganhar XP ou plasma no modo Sem Vírus (Sandbox)!</string>
